@@ -89,7 +89,7 @@ async function init() {
 async function init() {
     //logic to insert in db
 
-    
+    /** 
     const user_obj = {
        name:"Anuj ",
        age:20,
@@ -114,7 +114,7 @@ async function init() {
     }
 
     
-
+**/
     
    //   * 1.create/insert an address object
    //   * 2.insert the user object with address object with the _id
@@ -158,5 +158,5 @@ async function init() {
 
 
 
-
+}
 
